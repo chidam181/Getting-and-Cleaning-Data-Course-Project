@@ -14,8 +14,8 @@ For each record,
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 **Variables**
-# x_train, x_test, y_train, y_test, subject_train and subject_train are the data provided
-# merged is the combined data 
-# features contains the names for x dataset, while merged_mean_std is the data to which these names are applied.
-# des_lab contains a column of corrected names
-# mean_merged is the final data which is the average of each variable for each activity and each subject
+- x_train, x_test, y_train, y_test, subject_train and subject_train are the data provided
+- merged is the combined data 
+- features contains the names for x dataset, while merged_mean_std is the data to which these names are applied.
+- des_lab contains a column of corrected names
+- mean_merged is the final data which is the average of each variable for each activity and each subject
