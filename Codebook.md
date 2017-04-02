@@ -13,7 +13,9 @@ For each record,
 - A 561-feature vector with time and frequency domain variables. 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
+
 ##Variables
+
 * x_train, x_test, y_train, y_test, subject_train and subject_train are the data provided
 * merged is the combined data 
 * features contains the names for x dataset, while merged_mean_std is the data to which these names are applied.
